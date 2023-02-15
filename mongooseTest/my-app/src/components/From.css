@@ -1,0 +1,12 @@
+.input {
+  border: solid 1px green;
+  height: 20px;
+  line-height: 20px;
+  vertical-align: middle;
+}
+.button {
+  border: solid 1px green;
+  height: 22px;
+  line-height: 22px;
+  vertical-align: middle;
+}
